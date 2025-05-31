@@ -1,4 +1,4 @@
-# Hi there, I'm J>Shashank 👋
+# Hi there, I'm J.Shashank 👋
 
 ## 🚀 About Me
 - 🔭 I'm currently working on **[ML Project/Research Area]**
@@ -59,15 +59,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jsshashank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsshashank&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsshashank&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🧠 ML/DS Expertise
@@ -99,20 +99,20 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jsshashank&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jsshashank&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🔬 Featured ML Projects
 
 <div align="center">
 
-[![ML Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ML_PROJECT_1&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/ML_PROJECT_1)
+[![ML Project 1](https://github-readme-stats.vercel.app/api/pin/?username=jsshashank&repo=MAD.capstone.project&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/ML_PROJECT_1)
 [![ML Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ML_PROJECT_2&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/ML_PROJECT_2)
 [![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=DATA_ANALYSIS_PROJECT&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/DATA_ANALYSIS_PROJECT)
 [![Deep Learning](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=DEEP_LEARNING_PROJECT&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/DEEP_LEARNING_PROJECT)
