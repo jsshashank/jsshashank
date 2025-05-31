@@ -93,19 +93,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
-
-## 💝 Support My Work
-
-If you find my projects helpful, consider buying me a coffee!
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-  </a>
-</div>
-
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
