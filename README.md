@@ -1,22 +1,16 @@
 <!--![hippo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)-->
 # Hi there, I'm J.Shashank 👋
 
-## 🚀 About Me
-- 🔭 I'm currently working on **[ML Project/Research Area]**
-- 🌱 I'm currently learning **MLOps, Deep Reinforcement Learning, LLMs**
-- 🧠 I'm passionate about **Computer Vision, NLP, and Predictive Analytics**
-- 👯 I'm looking to collaborate on **Open Source ML Projects**
-- 💬 Ask me about **Python, Machine Learning, Data Analysis, Statistics**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I once trained a model that could predict coffee consumption based on weather patterns ☕**
+## About Me
+- Enthusiastic Computer Science student with a strong foundation in data science, machine learning, and
+ Database. Passionate about leveraging data-driven insights to solve real-world problems. Seeking an
+ internship/full-time role to apply my skills in data analysis, machine learning, and software development.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Skills
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 
 ### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -49,9 +43,11 @@
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 
-### MLOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+### Tools
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/BI-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Excel](https://img.shields.io/badge/Spreadsheet-Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -70,32 +66,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsshashank&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
-## 🧠 ML/DS Expertise
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Data Scientist & ML Engineer"
-        self.language_spoken = ["Python", "R", "SQL", "English"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together.")
-        
-    def get_skills(self):
-        return {
-            "Machine Learning": ["Supervised Learning", "Unsupervised Learning", "Deep Learning"],
-            "Data Analysis": ["Statistical Analysis", "A/B Testing", "Hypothesis Testing"],
-            "Computer Vision": ["Image Classification", "Object Detection", "OCR"],
-            "NLP": ["Sentiment Analysis", "Named Entity Recognition", "LLMs"],
-            "Time Series": ["Forecasting", "Anomaly Detection", "ARIMA"],
-            "MLOps": ["Model Deployment", "CI/CD", "Model Monitoring"]
-        }
-        
-me = DataScientist()
-me.say_hi()
-```
 
 ## 🏆 GitHub Trophies
 
