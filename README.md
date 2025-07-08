@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![ML Project 1](https://github-readme-stats.vercel.app/api/pin/?username=jsshashank&repo=MAD.capstone.project&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/ML_PROJECT_1)
+[![ML Project 1](https://github-readme-stats.vercel.app/api/pin/?username=jsshashank&repo=Customer-Segmentation&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/ML_PROJECT_1)
 [![ML Project 2](https://github-readme-stats.vercel.app/api/pin/?username=jsshashank&repo=Fitness-Watch-Data-Analysis&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/ML_PROJECT_2)
 <!--
 [![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=DATA_ANALYSIS_PROJECT&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/DATA_ANALYSIS_PROJECT)
@@ -108,14 +108,13 @@
 - [ ] Learn Advanced Computer Vision Techniques
 - [ ] Contribute to Open Source ML Libraries -->
 
-## 🤝 Connect with Me
+## 📞 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/your-profile)
 
 ## 📊 Kaggle Stats
   
