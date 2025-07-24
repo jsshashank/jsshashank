@@ -1,8 +1,6 @@
 <!--![hippo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)-->
-## Hi there, I'm J.Shashank 👋
-
-## About Me :
-- Enthusiastic Computer Science student with a strong foundation in *Data science, Machine learning, and
+## Hello, I'm J.Shashank
+Enthusiastic Computer Science student with a strong foundation in *Data science, Machine learning, and
  Databases.* Passionate about leveraging data-driven insights to solve real-world problems. Seeking an
  internship/full-time role to apply my skills in data analysis, machine learning, and software development.
 
@@ -43,6 +41,7 @@
 ![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 
 ### Tools :
+<!--
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/BI-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
@@ -50,8 +49,14 @@
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) -->
+<p>
+<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="50" height="50" src="https://img.icons8.com/3d-fluency/50/github.png" alt="github"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
+</p>
 ## 🔬 Featured ML Projects
 
 <div align="center">
