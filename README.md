@@ -116,10 +116,11 @@
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+<!--
 ## 📊 Kaggle Stats
   
 ![Kaggle Badge](https://img.shields.io/badge/-Expert-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 ![Competitions](https://img.shields.io/badge/Competitions-5-orange?style=flat-square)
 ![Datasets](https://img.shields.io/badge/Datasets-12-blue?style=flat-square)
 ![Notebooks](https://img.shields.io/badge/Notebooks-25-green?style=flat-square)
+-->
