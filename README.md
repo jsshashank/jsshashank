@@ -2,8 +2,8 @@
 ## Hi there, I'm J.Shashank 👋
 
 ## About Me :
-- Enthusiastic Computer Science student with a strong foundation in data science, machine learning, and
- Database. Passionate about leveraging data-driven insights to solve real-world problems. Seeking an
+- Enthusiastic Computer Science student with a strong foundation in *Data science, Machine learning, and
+ Databases.* Passionate about leveraging data-driven insights to solve real-world problems. Seeking an
  internship/full-time role to apply my skills in data analysis, machine learning, and software development.
 
 ## Tech Skills :
@@ -88,12 +88,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jsshashank&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 -->
+<!--
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jsshashank&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
+</div> 
+-->
 <!-- 
 ## 📚 Latest Blog Posts & Research
 - [Understanding Transformer Architecture: A Deep Dive](https://your-blog.com/transformers)
