@@ -57,14 +57,15 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
 </p>
+
+<!--
 ## 🔬 Featured ML Projects
 
 <div align="center">
- 
-<!--
 
 [![ML Project 1](https://github-readme-stats.vercel.app/api/pin/?username=jsshashank&repo=Customer-Segmentation&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/ML_PROJECT_1)
 [![ML Project 2](https://github-readme-stats.vercel.app/api/pin/?username=jsshashank&repo=Fitness-Watch-Data-Analysis&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/ML_PROJECT_2)
+
 -->
 <!--
 [![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=DATA_ANALYSIS_PROJECT&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/DATA_ANALYSIS_PROJECT)
