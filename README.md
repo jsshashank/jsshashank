@@ -60,9 +60,12 @@ Enthusiastic Computer Science student with a strong foundation in *Data science,
 ## 🔬 Featured ML Projects
 
 <div align="center">
+ 
+<!--
 
 [![ML Project 1](https://github-readme-stats.vercel.app/api/pin/?username=jsshashank&repo=Customer-Segmentation&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/ML_PROJECT_1)
 [![ML Project 2](https://github-readme-stats.vercel.app/api/pin/?username=jsshashank&repo=Fitness-Watch-Data-Analysis&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/ML_PROJECT_2)
+-->
 <!--
 [![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=DATA_ANALYSIS_PROJECT&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/DATA_ANALYSIS_PROJECT)
 [![Deep Learning](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=DEEP_LEARNING_PROJECT&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/DEEP_LEARNING_PROJECT)
