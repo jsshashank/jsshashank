@@ -1,8 +1,8 @@
 <!--![hippo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)-->
 ## Hello, I'm J.Shashank
-Enthusiastic Computer Science student with a strong foundation in *Data science, Machine learning, and
+*Enthusiastic Computer Science student with a strong foundation in *Data science, Machine learning, and
  Databases.* Passionate about leveraging data-driven insights to solve real-world problems. Seeking an
- internship/full-time role to apply my skills in data analysis, machine learning, and software development.
+ internship/full-time role to apply my skills in data analysis, machine learning, and software development.*
 
 ## Tech Skills :
 ### Programming Languages :
