@@ -52,11 +52,11 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) -->
 <p>
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+ <img width="48" height="48" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/48/external-Git-social-media-those-icons-lineal-color-those-icons.png" alt="external-Git-social-media-those-icons-lineal-color-those-icons"/>
 <img width="50" height="50" src="https://img.icons8.com/3d-fluency/50/github.png" alt="github"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
- <img width="48" height="48" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/48/external-Git-social-media-those-icons-lineal-color-those-icons.png" alt="external-Git-social-media-those-icons-lineal-color-those-icons"/>
 </p>
 
 <!--
