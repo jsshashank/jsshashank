@@ -22,7 +22,7 @@
 </a>&nbsp;&nbsp;&nbsp&nbsp;&nbsp
 <a href="">
   <img align="center" src="https://img.icons8.com/doodle/48/mail-contact.png" alt="Icon" width="27" height="27"> 
-</a>
+</a>&nbsp
 </div>
     </p>
 </div>
