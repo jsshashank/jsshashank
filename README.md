@@ -4,11 +4,11 @@
         </samp>
 </h2>
 
-<p align="center">
+<h3 align="center">
         <samp>
                 Passionate about Machine Learning, Data Science, DBMS, and Web Development, with a focus on building intelligent systems, managing data efficiently, and creating impactful web solutions.
         </samp>
-</p>
+</h3>
 
 <div align="center">
  <p align="center">
