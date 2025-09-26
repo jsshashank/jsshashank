@@ -10,12 +10,7 @@
         </samp>
 </h3>
 
-<div align="center">
-<p>
-        <p><samp>Lets Connect!</samp>
-</p>
-</div>
-        
+  <h1></h1>      
 <div align="center">
 <a href="">
   <img align="center" src="https://img.icons8.com/doodle/48/domain.png" alt="Icon" width="27" height="27">
