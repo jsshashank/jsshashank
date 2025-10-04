@@ -4,13 +4,7 @@
         </samp>
 </h2>
 
-<h3 align="center">
-        <samp>
-                Passionate about Machine Learning, Data Science, DBMS, and Web Development, with a focus on building intelligent systems, managing data efficiently, and creating impactful web solutions.
-        </samp>
-</h3>
-
-  <h1></h1>      
+     
 <div align="center">
 <a href="">
   <img align="center" src="https://img.icons8.com/doodle/48/domain.png" alt="Icon" width="27" height="27">
